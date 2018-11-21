@@ -1,0 +1,10 @@
+enabled: false
+Prefix: '§4Maintenance'
+AlreadyEnabled: '§4Maintenance already enabled!'
+AlreadyDisabled: '§cMaintenance already disabled!'
+EnabledMSG: '§aenabled!'
+DisabledMSG: '§cdisabled!'
+DisconnectMSG: '§cMaintenance Mode enabled, please try again later!'
+NowDisabled: '§eMaintenance is now §cdisabled!'
+NowEnabled: '§eMaintenance is now §aenabled!'
+State: '§3Maintenance is currently §e%STATE%'

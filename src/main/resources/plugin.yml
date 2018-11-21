@@ -1,0 +1,5 @@
+name: BungeeMaintenance
+version: ${project.version}
+main: de.mj.bungeemaintenance.BungeeMaintenance
+description: Maintenance Plugin
+author: MJ
